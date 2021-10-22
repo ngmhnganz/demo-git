@@ -1,9 +1,10 @@
 hello world
-master
+master = production
 branch đăng nhập : 
-        nhập tên -> 
-        nhập thong tin -> 
-        mật khẩu -> 
-        otp -> 
-        đk thành côgn
-đăng ký: nhập tên -> nhập thong tin -> mật khẩu -> otp -> đk thành côgn
+                nhập tên -> 
+                        nhập thong tin -> 
+                        mật khẩu -> 
+                        otp -> 
+                đk thành công
+        đăng ký: 
+                nhập tên -> nhập thong tin -> mật khẩu -> otp -> đk thành công
